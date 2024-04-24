@@ -4,9 +4,7 @@ Conversor de moedas para o desafio da Alura challanges com a ONE (Oracle Next Ed
 
 ![image](https://github.com/LealDias/Conversor_de_Moedas_Alura_Challanges_ONE/assets/70763447/96c669ef-3a45-4b34-85c3-74b23f920caf)
 <p align="center">
-  <a href="#">
-    <img src="![image](https://github.com/LealDias/Conversor_de_Moedas_Alura_Challanges_ONE/assets/70763447/96c669ef-3a45-4b34-85c3-74b23f920caf)">
-  </a>
+![image](https://github.com/LealDias/Conversor_de_Moedas_Alura_Challanges_ONE/assets/70763447/96c669ef-3a45-4b34-85c3-74b23f920caf)
 </p>
 
 # Tecnologias
