@@ -27,9 +27,25 @@ https://v6.exchangerate-api.com/v6/b79cbd822d955ac95be0b81f/latest/USD
 
 Para este projeto foram criadas 6 classes:
 
+### ExchangeRateService:
+
+Nesta classe é feita a conexão com o serviço de API da Exhanger-API, retornando os dados no formato Json.
+
+### CurrencyConverter:
+
+Nesta classe é feita a conversão dos valores solicitados pelo usuários, que foram colerados durante a requisição na API.
+
 ### ConversionRecord:
 
-Nesta classe
+Nesta classe é feito o registro único da transação durante o processo de consulta do usuário. Este registro é então passado para a classe history que armazena as informações em uma lista.
+
+### History:
+
+Armazena as informações de consulta em uma lista, gerando assim um histórico de todas as consultas feitas pelo usuário.
+
+### Main:
+
+Nesta classe é executado o programa principal com o menu e suas opções disponíveis.
 
 # Resultados e Testes
 
