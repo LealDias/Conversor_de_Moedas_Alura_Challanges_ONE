@@ -33,4 +33,7 @@ Nesta classe
 
 # Resultados e Testes
 
+### Menu Inicial
+
+![image](https://github.com/LealDias/Conversor_de_Moedas_Alura_Challanges_ONE/assets/70763447/a697c820-a0a1-4624-837a-ecc32b0445c7)
 
