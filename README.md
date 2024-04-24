@@ -5,7 +5,7 @@ Conversor de moedas para o desafio da Alura challanges com a ONE (Oracle Next Ed
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java5&logoColor=white" alt="JAVA">
+    <img src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="JAVA">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
