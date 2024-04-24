@@ -53,3 +53,21 @@ Nesta classe é executado o programa principal com o menu e suas opções dispon
 
 ![image](https://github.com/LealDias/Conversor_de_Moedas_Alura_Challanges_ONE/assets/70763447/a697c820-a0a1-4624-837a-ecc32b0445c7)
 
+## Consulta e Resultado
+
+![image](https://github.com/LealDias/Conversor_de_Moedas_Alura_Challanges_ONE/assets/70763447/51665f3e-95b7-4dd7-a30d-a9b9efda0cc7)
+
+## Consulta de Histórico
+
+![image](https://github.com/LealDias/Conversor_de_Moedas_Alura_Challanges_ONE/assets/70763447/99e303b1-adbf-4978-9590-6618c3bda160)
+
+## Tentativa de Opção Inválida
+
+![image](https://github.com/LealDias/Conversor_de_Moedas_Alura_Challanges_ONE/assets/70763447/33b0753c-667b-4b44-b2fe-d2bc12c1d6f0)
+
+
+## Saída do Programa
+
+![image](https://github.com/LealDias/Conversor_de_Moedas_Alura_Challanges_ONE/assets/70763447/19888e04-42ab-456e-b978-1f47479f0857)
+
+
